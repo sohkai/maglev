@@ -1,16 +1,12 @@
 <img src="http://rawgit.com/caiogondim/maglev/master/logo/logo.svg">
 
-# Maglev
+# Maglev (forked for base16-oceanicnext)
 
-A Tmux theme made to work together with [Bullet train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme).
+[See original](https://github.com/caiogondim/maglev)
 
 ## Screenshot
 
-<img src="http://rawgit.com/caiogondim/maglev/master/img/screenshot.png">
-
-The annotated screenshot:
-
-<img src="http://rawgit.com/caiogondim/maglev/master/img/screenshot-annotated.png">
+<img src="http://rawgit.com/sohkai/maglev/master/img/screenshot.png">
 
 ## Installing
 
@@ -20,10 +16,6 @@ This plugin depends on the following tmux plugins:
 - [Tmux copycat](https://github.com/tmux-plugins/tmux-copycat)
 - [Tmux Yank](https://github.com/tmux-plugins/tmux-yank)
 - [Tmux Open](https://github.com/tmux-plugins/tmux-open)
-
-This plugin has the following optional dependencies:
-
-- [Tmux prefix highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
 - [Tmux Battery](https://github.com/tmux-plugins/tmux-battery)
 - [Tmux CPU](https://github.com/tmux-plugins/tmux-cpu)
 
@@ -70,17 +62,5 @@ Some dependencies:
 - [TPM](https://github.com/tmux-plugins/tpm)
 - [Powerline patched font](https://github.com/powerline/fonts)
 
-## Donating
-
-If you found this library useful and are willing to donate, transfer some
-bitcoins to `1BqqKiZA8Tq43CdukdBEwCdDD42jxuX9UY` or through the
-[URL](https://www.coinbase.com/caiogondim) https://www.coinbase.com/caiogondim
-
-Or via [PayPal.me](https://www.paypal.me/caiogondim) https://www.paypal.me/caiogondim.
-
 ## Credits
-- Icon created by Katya Sotnikova from The Noun Project
-- [Tmux open](https://github.com/tmux-plugins/tmux-open)
-- [Tmux battery status](https://github.com/tmux-plugins/tmux-battery)
-- [Tmux open](https://github.com/tmux-plugins/tmux-open)
-- [Tmux pain control](https://github.com/tmux-plugins/tmux-pain-control)
+- [Original](https://github.com/caiogondim/maglev)
